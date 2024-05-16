@@ -1,4 +1,4 @@
-# -Machine-Learning-Olympic-Medal-Prediction
+#Machine-Learning-Olympic-Medal-Prediction
 
 Olympic Medals Prediction Project
 
